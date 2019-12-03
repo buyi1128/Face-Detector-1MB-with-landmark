@@ -1,8 +1,11 @@
 # Face-Detector-1MB-with-landmark-tracker
 
-**基于[Face-Detector-1MB-with-landmark](https://github.com/biubug6/Face-Detector-1MB-with-landmark) ** 
+**基于[Face-Detector-1MB-with-landmark](https://github.com/biubug6/Face-Detector-1MB-with-landmark)** 
 
-* 添加人脸跟踪功能
+## 功能
+### 在人脸检测和定位的基础上添加人脸跟踪功能
+* 根据人脸框的重叠度进行跟踪
+* 根据人脸特征进行识别跟踪 （todo）
 
 
 ## References
